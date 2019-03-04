@@ -1,0 +1,8 @@
+{
+	"build-widget": {},
+	"create-app": {},
+  "legacy": true,
+  "build-app": {
+    "legacy": true
+  }
+}
